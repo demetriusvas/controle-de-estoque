@@ -1,0 +1,13 @@
+body { font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif; }
+.scrollbar-thin::-webkit-scrollbar { width: 6px; }
+.scrollbar-thin::-webkit-scrollbar-track { background: #374151; }
+.scrollbar-thin::-webkit-scrollbar-thumb { background: #6b7280; border-radius: 3px; }
+
+#dashboard a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#dashboard a:hover {
+    text-decoration: underline;
+}
